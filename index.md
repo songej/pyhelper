@@ -8,12 +8,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <center><font size=10>환영합니다. 배려하겠습니다<font color="red">♥</font></font></center>
 <br>
 <br>
+<center> 
 '''
 
-<center> <font size=5>안녕 나는 풍양이야. 풍양중학교에 입학한 걸 환영해</center>
+<font size=5>안녕 나는 풍양이야. 풍양중학교에 입학한 걸 환영해
   <center> 풍양중학교에 관하여 궁금한 것이 있으면 나를 찾아줘~</font></center>
 
 '''
+</center>
 ![Image of school](https://github.com/choims8987/pyhelper/issues/1#issue-870571278)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
