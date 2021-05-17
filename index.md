@@ -1,4 +1,4 @@
-##### 풍양중학교 안내봇 풍양이
+#### 풍양중학교 안내봇 풍양이
 
 You can use the [editor on GitHub](https://github.com/choims8987/pyhelper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <br>
 <br>
-<center><font size=10>환영합니다. 배려하겠습니다<font color="red">♥</font></font></center>
+<center><font size=7>환영합니다. 배려하겠습니다<font color="red">♥</font></font></center>
 <br>
 <center><img src="https://user-images.githubusercontent.com/80456991/118447827-3163cc00-b72c-11eb-81dc-14e0351dd393.png" width=120></center>
 <br>
