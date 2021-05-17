@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 '''
 </center>
-![Image of school](https://user-images.githubusercontent.com/80456991/116498198-29123100-a8e4-11eb-8ea4-60ce9634db4e.PNG)
+![Image of school](https://user-images.githubusercontent.com/80456991/118447827-3163cc00-b72c-11eb-81dc-14e0351dd393.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
