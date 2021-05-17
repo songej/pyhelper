@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br>
 <br>
 <center><font size=10>환영합니다. 배려하겠습니다<font color="red">♥</font></font></center>
+<img src="https://github.com/choims8987/pyhelper/issues/4#issue-893012692">
 <br>
 <br>
 <center> 
