@@ -11,12 +11,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br>
 <br>
 </center> 
-'''
+
 
 <font size=5>안녕 나는 풍양이야. 풍양중학교에 입학한 걸 환영해
   <center> 풍양중학교에 관하여 궁금한 것이 있으면 나를 찾아줘~</font></center>
 
-'''
+
 </center>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
