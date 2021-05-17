@@ -10,9 +10,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # 풍양중학교에 관하여 궁금한 것이 있으면 나를 찾아줘~
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
