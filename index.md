@@ -3,9 +3,7 @@ You can use the [editor on GitHub](https://github.com/choims8987/pyhelper/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-환영합니다. 배려하겠습니다♥
+### 환영합니다. 배려하겠습니다♥
 ```markdown
 Syntax highlighted code block
 
