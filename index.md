@@ -5,7 +5,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <br>
 <br>
-### 환영합니다. 배려하겠습니다♥
+<center>### 환영합니다. 배려하겠습니다♥</center>
 <br>
 <br>
 ```markdown
