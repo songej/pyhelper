@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br>
 <center><font size=10>환영합니다. 배려하겠습니다<font color="red">♥</font></font></center>
 <br>
-<img size=50% src="https://user-images.githubusercontent.com/80456991/118447827-3163cc00-b72c-11eb-81dc-14e0351dd393.png">
+<img width=100 src="https://user-images.githubusercontent.com/80456991/118447827-3163cc00-b72c-11eb-81dc-14e0351dd393.png">
 <br>
 <br>
 </center> 
