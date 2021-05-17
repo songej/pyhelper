@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 '''
 </center>
-![Image of school](https://github.com/choims8987/pyhelper/issues/1#issue-870571278)
+![Image of school](https://user-images.githubusercontent.com/80456991/116498198-29123100-a8e4-11eb-8ea4-60ce9634db4e.PNG)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
