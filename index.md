@@ -18,6 +18,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <center><font size=5> 풍양중학교에 입학한 걸 환영해</font></center><br>
   <center><font size=5> 풍양중학교에 관하여 궁금한 것이 있으면 </font></center><br>
    * <center><font color=blue size=5> 풍양아~</font></center><br>*
-      <center><font size=5> 풍양중학교에 관하여 궁금한 것이 있으면 풍양아~하고 나를 불러줘~</font></center><br>
+      <center><font size=5>하고 나를 불러줘~</font></center><br>
 
 
