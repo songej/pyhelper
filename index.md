@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-<center><font size=5>안녕 나는 풍양이야 </font></center><br>
+<center><font size=5>안녕 나는 풍양중학교 안내봇 풍양이야 </font></center><br>
 <center><font size=5> 풍양중학교에 입학한 걸 환영해</font></center><br>
   <center><font size=5> 풍양중학교에 관하여 궁금한 것이 있으면 나를 찾아줘~</font></center>
 
