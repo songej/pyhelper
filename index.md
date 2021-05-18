@@ -11,11 +11,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br>
 <center><img src="https://user-images.githubusercontent.com/80456991/118447827-3163cc00-b72c-11eb-81dc-14e0351dd393.png" width=120></center>
 <br>
-<center>
-**안녕! 나는 풍양중학교 안내봇 풍양이야**
-
-**풍양중학교에 입학한 걸 환영해**
-</center>
 <center><font size=4>안녕! 나는 풍양중학교 안내봇 풍양이야 </font></center>
 <center><font size=4> 풍양중학교에 입학한 걸 환영해</font></center>
 <center><font size=4> 풍양중학교에 관하여 궁금한 것이 있으면 </font></center>
