@@ -1,5 +1,5 @@
 #### 풍양중학교 안내봇 풍양이
-#### 풍양중학교 안내봇 풍양이
+#### 풍양중학교에 오신걸 환영합니다. 
 
 You can use the [editor on GitHub](https://github.com/choims8987/pyhelper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
